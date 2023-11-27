@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\github\\Docker_CI_CD_DotNet6\\TestWebApplication\\TestWebApplication\\TestWebApplication.csproj": {}
+    "D:\\github\\Docker_CI_CD_DotNet6\\src\\TestWebApplication.csproj": {}
   },
   "projects": {
-    "D:\\github\\Docker_CI_CD_DotNet6\\TestWebApplication\\TestWebApplication\\TestWebApplication.csproj": {
+    "D:\\github\\Docker_CI_CD_DotNet6\\src\\TestWebApplication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\github\\Docker_CI_CD_DotNet6\\TestWebApplication\\TestWebApplication\\TestWebApplication.csproj",
+        "projectUniqueName": "D:\\github\\Docker_CI_CD_DotNet6\\src\\TestWebApplication.csproj",
         "projectName": "TestWebApplication",
-        "projectPath": "D:\\github\\Docker_CI_CD_DotNet6\\TestWebApplication\\TestWebApplication\\TestWebApplication.csproj",
+        "projectPath": "D:\\github\\Docker_CI_CD_DotNet6\\src\\TestWebApplication.csproj",
         "packagesPath": "C:\\Users\\f_nosrati\\.nuget\\packages\\",
-        "outputPath": "D:\\github\\Docker_CI_CD_DotNet6\\TestWebApplication\\TestWebApplication\\obj\\",
+        "outputPath": "D:\\github\\Docker_CI_CD_DotNet6\\src\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

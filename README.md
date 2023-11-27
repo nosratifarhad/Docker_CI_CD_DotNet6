@@ -80,7 +80,7 @@ The final part of the Dockerfile specifies the final image that will be created.
 docker build -t dockerfile image-name .
 ```
 
-![My Remote Image](https://github.com/nosratifarhad/Docker_CI_CD_DotNet6/blob/main/docs/Annotation1.jpg)
+![My Remote Image](https://github.com/nosratifarhad/Docker_CI_CD_DotNet6/blob/main/docs/Annotation1.png)
 
 
 Now, to run the created image, execute the following command.

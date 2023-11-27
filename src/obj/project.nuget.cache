@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kUFRAUjaKjDu3iq6LhpgX6ckb345ahpSZp60NLw5j9Y+61X/jaA9J1jN513OvR1apC+FIillROEcmtlKTf35iA==",
+  "dgSpecHash": "BDV83/bItgEdMYOuaBl+CHlcicgWxRiRxNerco8CNtGETdrLDMi8YGEhz2UtzKbLMUJ1i5XSdA1Eqr5WkGAW0Q==",
   "success": true,
-  "projectFilePath": "D:\\github\\Docker_CI_CD_DotNet6\\TestWebApplication\\TestWebApplication\\TestWebApplication.csproj",
+  "projectFilePath": "D:\\github\\Docker_CI_CD_DotNet6\\src\\TestWebApplication.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\f_nosrati\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\f_nosrati\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

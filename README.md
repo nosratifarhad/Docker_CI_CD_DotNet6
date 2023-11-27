@@ -77,14 +77,28 @@ The final part of the Dockerfile specifies the final image that will be created.
 
 
 ```cmd
-docker build -t dockerfile image-name .
+ docker build -t mywebapp -f Dockerfile .
 ```
 
-![My Remote Image](https://github.com/nosratifarhad/Docker_CI_CD_DotNet6/blob/main/docs/Annotation1.jpg)
+![My Remote Image](https://github.com/nosratifarhad/Docker_CI_CD_DotNet6/blob/main/docs/Annotation1.png)
 
+Now your image has been built.
 
-Now, to run the created image, execute the following command.
+![My Remote Image](https://github.com/nosratifarhad/Docker_CI_CD_DotNet6/blob/main/docs/Annotation2.png)
+
+next stap, your must be created container, execute the following command.
 
 ```cmd
+
 docker run -d -p 5000:80 image-name
 ```
+```
+> command response must be like this
+PS > docker run -d -p 5000:80 mywebapp
+b89eabf7d169a0805a0017238924e1bee44207c2d7f761b02fe526f620029eb8
+PS > 
+```
+
+### Now your container is ready.
+
+![My Remote Image](https://github.com/nosratifarhad/Docker_CI_CD_DotNet6/blob/main/docs/Annotation3.png)

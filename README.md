@@ -1,5 +1,5 @@
 
-# create docker file and build image and create ci/cd
+# create docker file and build image 
 
 ### After installing Docker
 After installing Docker, you should create a Dockerfile without an extension in the root path of your project.
